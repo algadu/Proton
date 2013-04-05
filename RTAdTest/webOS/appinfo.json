@@ -1,0 +1,10 @@
+{
+	"title": "RTAdTest",
+	"type": "pdk",
+	"main": "rtadtest",
+	"id": "com.rtsoft.rtadtest",
+	"version": "1.0.0",
+	"vendor": "Robinson Technologies",
+  "icon": "icon.png",
+  "requiredMemory": 20
+}
